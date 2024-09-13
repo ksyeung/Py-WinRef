@@ -11,7 +11,7 @@ Why do this? While working through the SANS FOR508 labs, it occurred to me that 
 Why not use one of the many RDS query tools? If you're looking up a large number of rows in an AutoRuns export, or more than one export, it can quickly become bit time-consuming. SQLite is shockingly fast.
 
 # How do I use it?
-Note: this is a Windows program!
+Note: this is a Windows program! Please read this entire README before proceeding, and especially the two large paragraphs below.
 
 - Clone the repo, then install these required packages via pip (ensure you have Git installed):
 
